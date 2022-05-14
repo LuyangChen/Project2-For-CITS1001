@@ -1,0 +1,3 @@
+### Ver3 14-05-2022 ###
+Changes made to Item, Board and AIPlayer classes.
+Currently working on TODO 31.
