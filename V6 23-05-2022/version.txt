@@ -1,0 +1,3 @@
+### Ver6 23-05-2022 ###
+Changes made to GameViewer and Board class.
+Currently working on fixing a bug where sometimes an item is only partially created on the board, making a win impossible.
